@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51617678762",
+    "project_id": "attendance-ad4cf",
+    "storage_bucket": "attendance-ad4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51617678762:android:4cb971d3aa9df7645197d3",
+        "android_client_info": {
+          "package_name": "com.vvit.hemanth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51617678762-s52vn82pu16t6rse0si5lrk01l5av14v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdBJEWX_efFBzU_5Fj_wF_cizRnCzJRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51617678762-s52vn82pu16t6rse0si5lrk01l5av14v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
